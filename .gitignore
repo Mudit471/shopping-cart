@@ -1,0 +1,6 @@
+.idea/
+.mvn/
+target/
+data/
+volume-data/
+docker/tempo/tempo-data/
